@@ -53,7 +53,7 @@ ospd-openvas==22.5.3
 os-refresh-config==13.1.0
 os_virtual_interfacesv2_python_novaclient_ext==0.20
 othertools==1.0.13
-otoole==1.0.4a2
+otoole==1.0.4
 ottr==0.0.1
 out==0.78a2
 outliertree==1.8.1.post9
