@@ -55,7 +55,7 @@ os_virtual_interfacesv2_python_novaclient_ext==0.20
 othertools==1.0.13
 otoole==1.0.4a2
 ottr==0.0.1
-out==0.78a2
+out==0.78
 outliertree==1.8.1.post9
 ovccg==0.9
 overrides==7.3.1
