@@ -6,7 +6,7 @@ opentick==1.2.0
 opentsdb-http-client==0.2.0
 opentsdb-python-metrics==0.2.0
 opentuner==0.8.8
-openvr==1.23.701
+openvr==1.26.701
 OPi.GPIO==0.5.2
 oppy==0.0.6
 opsgenie-sdk==2.1.5
@@ -78,10 +78,10 @@ p2py==0.23
 p3-data==2.0.2
 p3-test-driver==2.0.3
 p4p==4.1.9
-paasta-tools==0.193.1
+paasta-tools==0.194.1
 pacco==0.4.3
 pack-carlist==0.0.1
-packitos==0.78.2
+packitos==0.79.0
 packstack==22.0.0.0rc1
 paco.models==7.8.34
 pacurses==0.1.1
